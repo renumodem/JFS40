@@ -1,0 +1,91 @@
+with the use of html we can create our own website
+HTML: Hyper Text Markup Language
+Skeleton-like structure
+
+Building Blocks in Html Basic document structure
+Text formatting
+Creating links
+Hyperlinks links in html
+Building blocks in html:
+Tags
+Attributes
+Elements
+Tags:
+Start tag, end tag
+• <a> </a>
+Attributes: additional information to the html elements
+Elements: <a>Go to the another page ‹la>
+Basic html document structure.
+<Doctype html> - to tells the browser what type of document it is <html>- root element of the html document
+<head> - extra information, / meta information
+
+Heading Elements : are 6 types
+From h1 to h6
+Diff b/w from h1 to h6 is - increasing size to decreasing in size ...
+<h1>---<h1>
+<h6>----<h6>
+To write the description we have paragraph tags in html
+<p>-.-</p>
+Button tags - *button>---</button>
+
+Current state of html:
+Html5 - semantic elements - header, footer, nav, sections
+
+Text to move from left to right and right to left - we use marquee tags.
+‹marquee>--</marquee›
+
+To the text if you want to write the below text use - sub tags <p>C<sub>6</sub></p>
+To the text if you want to write above the text use - sup tags <p>10<sup>9</sup> 2<sup>53</sup></p>
+
+-->Pre tag - same as it is your content in html it will be displayed on the web page
+
+-->TAGS:
+
+Tags are like instructions for the browser and are enclosed in angle brackets like <tagname>
+tags tells the browsers how to display content on the web page
+
+-->ATTRIBUTES:
+
+HTML Attributes are used to provide additional information about html elements
+They are always specified in the open tag of an element and typically consist of name and value pairs
+
+-->ELEMENTS:
+
+Elements are made up of opening tags and closing tags
+open tags marks the beginning of and element and the closing tag marks the end
+
+
+-->List:
+1.Un-ordered list- 3 types with type attribute we can change the types of the list
+Disc,square,circle
+2. Ordered list-5 types
+upper and lower alphabets, upper and lower roman numbers
+"A","a","1","I","i".
+3.Description list-dl,dt-description team,dd-description definition like a glossary
+
+-->Table Tags:
+Tr-Table row
+Th-table header
+Td-table data
+
+Inline elements-to the inline elements there is no end tag </hr>,<br>
+ <hr>-Horizontal line 
+<br>-Break the line
+<img src="image_url"/>-images url source- freepik.com
+cloudinary.com-to create your own image urls.
+iframe-embed the youtube videos and google maps /Wikipedia
+
+-->Center-to show the content in the mid of the web page/align items in the order
+--><u>-underline the text
+--><s>-strike through
+<del>-strike through the values </del>-like old values and new values
+<a>-anchor tag is used to move the one page to another page
+href-access the address
+target=_blank open in new tab
+
+External linking-in the same page opening another page
+Internal linking-in the sake page opening different sections
+linking downloadable-
+
+
+
